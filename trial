@@ -1,0 +1,5 @@
+# Sets up hit with your name
+git config --global user.name "Mona Lisa"
+
+#setup with your email
+git config --global user.email "niharikagupta1110@gmail.com"
